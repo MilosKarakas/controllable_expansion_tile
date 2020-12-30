@@ -1,6 +1,6 @@
 # Welcome
 
-This simple package exposes the state of Flutter Expansion tile and makes it controllable with ExpansionTileController.
+This simple package exposes the state of Flutter Expansion Tile and makes it controllable with ExpansionTileController.
 
 ## Example 
 
