@@ -206,6 +206,7 @@ class _ControllableExpansionTileState extends State<ControllableExpansionTile> w
           });
         PageStorage.of(context)?.writeState(context, _isExpanded);
       });
+      widget.onExpansionChanged(_isExpanded);
     }
   }
 
