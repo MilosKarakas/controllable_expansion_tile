@@ -11,7 +11,7 @@ Collapsing and expanding the tile with FAB.
 
 ### Code used in gif example
 
-`
+```dart
 import 'package:flutter/material.dart';
 import 'package:controllable_expansion_tile/controllable_expansion_tile.dart';
 import 'package:controllable_expansion_tile/expansion_tile_controller.dart';
@@ -91,4 +91,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-`
+```
