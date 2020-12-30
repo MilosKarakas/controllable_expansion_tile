@@ -1,0 +1,19 @@
+name: controllable_expansion_tile
+description: Simple package that makes Expansion Tile collapsable.
+version: 1.0.0
+author: milos.karakas@codebluestudio.com
+homepage: 
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
